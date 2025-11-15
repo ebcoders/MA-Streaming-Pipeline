@@ -1,0 +1,10 @@
+kafka-python
+numpy
+pandas
+plotly
+requests
+river
+scikit-learn
+streamlit
+streamlit-autorefresh
+yfinance

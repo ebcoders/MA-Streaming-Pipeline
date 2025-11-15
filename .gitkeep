@@ -1,0 +1,3 @@
+touch data/.gitkeep
+touch models/.gitkeep
+touch logs/.gitkeep
