@@ -34,7 +34,7 @@ Follow the instructions below to configure and launch the complete pipeline.
 **Clone the Repository:**
 
 ```bash
-git clone https://github.com/Rishab-Bo/Stream-MA-Prediction-Pipeline
+git clone
 cd <your-repo-directory>
 ```
 
